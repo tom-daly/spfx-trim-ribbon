@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="SpfxTrimRibbon"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="e95b838b-263f-4eb8-9600-9eb62a59659f"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>
